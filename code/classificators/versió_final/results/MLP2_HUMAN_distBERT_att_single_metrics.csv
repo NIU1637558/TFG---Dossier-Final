@@ -1,0 +1,7 @@
+Metric,Value
+Accuracy,0.7741
+Precision (Macro),0.7763
+Recall (Macro),0.7750
+F1-score (Macro),0.7739
+Recall (True),0.8173
+Recall (False),0.7326

@@ -1,0 +1,7 @@
+,value
+accuracy,1.0
+precision_macro,1.0
+recall_macro,1.0
+f1_macro,1.0
+recall_True,1.0
+recall_False,0.0
